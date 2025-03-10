@@ -3,7 +3,7 @@
 README file explaining the project, dataset, and steps taken and insights
 
 
-** Individual Contributions ** (Clearly highlight the contributions of each team member in both the GitHub repository and the video)
+**Individual Contributions** (Clearly highlight the contributions of each team member in both the GitHub repository and the video)
 1. Both Bryant and Yuen In were involved in selecting datasets, with a total of 2 datasets examined by Bryant and 1 dataset examined by Yuen In before the final dataset was selected for use. 
 2. Bryant and Jing Yun added text cells with explanations, such that the notebook had a smooth logical flow.
 3. Bryant was responsible for handling missing values in the dataset.
