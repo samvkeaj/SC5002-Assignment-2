@@ -8,6 +8,23 @@ Additionally, mimicking the complexities of data collection from patients in rea
 
 **Project:** Here, we attempt to use Linear Regression and Ridge Regression to predict patients' Diabetes Pedigree Function scores. If the prediction proves to be reliable, then the model can be used to predict Diabetes Pedigree Function scores based on patient history and existing medical records. Subsequently, higher scores can then be used to make a recommendation to patients for an precautionary check-up. 
 
+**Steps taken:**
+
+Briefly, the steps taken are as follows
+
+1. Vetting of a few different datasets - some datasets were too huge, or had questionable integrity
+2. Superficial check for missing values, by looking for empty strings or null values
+3. Deeper check of dataset for data integrity issues
+4. Data cleaning - removing certain rows, and imputing missing data for others
+5. Creating function for model training, with built-in encoding of categorical values and scaling of numerical values
+6. Specifying input features and continous output
+7. Perform train-test split, and calculate performance metrics (MSE and R<sub>2</sub>)
+8. Conduct k-fold cross validation, and calculate performance metrics
+9. Analysis and discussion of results
+
+**Insights:**
+
+
 **Link to slides:** https://www.canva.com/design/DAGhP8nwpV0/xQ_HGqgKAtksZld-Vcv0nQ/edit
 
 **Individual Contributions** (Clearly highlight the contributions of each team member in both the GitHub repository and the video)
