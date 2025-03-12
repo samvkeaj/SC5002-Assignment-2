@@ -2,6 +2,7 @@
 
 README file explaining the project, dataset, and steps taken and insights
 
+**Link to slides:** https://www.canva.com/design/DAGhfKSgwlw/AlEhpIrquBPWepFhbwpuVw/edit?utm_content=DAGhfKSgwlw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 **Individual Contributions** (Clearly highlight the contributions of each team member in both the GitHub repository and the video)
 1. Both Bryant and Yuen In were involved in selecting datasets, with a total of 2 datasets examined by Bryant and 1 dataset examined by Yuen In before the final dataset was selected for use. 
