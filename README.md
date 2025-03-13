@@ -2,7 +2,7 @@
 
 README file explaining the project, dataset, and steps taken and insights
 
-**Dataset:** The dataset originates from a diabetes research setting. In this dataset, there is data for many variables that have shown to be related to diabetes, such as the plasma glucose concentration at 2 hours in an oral glucose tolerance test, blood pressure, serum insulin at 2 hours, Body Mass Index, and Diabetes Pedigree Function scores. Given the multifaceted nature of diabetes, no single variable is a good predictor of diabetes. For instance, while diabates may traditionally be associated with a high BMI, many patients of Asian ethnicities actually have a "skinny fat" physique, appearing skinny overall but having fat deposits specifically at the liver. 
+**Dataset:** The dataset originates from a diabetes research setting. In this dataset, there is femle patient data for many variables that have shown to be related to diabetes, such as the plasma glucose concentration at 2 hours in an oral glucose tolerance test, blood pressure, serum insulin at 2 hours, Body Mass Index, and Diabetes Pedigree Function scores. Given the multifaceted nature of diabetes, no single variable is a good predictor of diabetes. For instance, while diabates may traditionally be associated with a high BMI, many patients of Asian ethnicities actually have a "skinny fat" physique, appearing skinny overall but having fat deposits specifically at the liver. 
 
 Additionally, mimicking the complexities of data collection from patients in real life, there exist certain measurements with no available data. This also presents an opportunity to utilise data cleaning and data imputation methods.
 
