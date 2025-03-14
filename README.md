@@ -23,7 +23,9 @@ Briefly, the steps taken are as follows
 9. Analysis and discussion of results
 
 **Insights:**
+BMI could be a feasible predictor of poor health inputs in diabetic patients, especially in the case where devices and techniques needed for more in-depth measurements are not available.
 
+The results also show that Linear Regression alone performs well enough, with no notable gains from regularization. This suggests that Linear Regression may be a practical choice for clinical settings where simplicity and interpretability are important.
 
 **Link to slides:** https://www.canva.com/design/DAGhP8nwpV0/xQ_HGqgKAtksZld-Vcv0nQ/edit
 
