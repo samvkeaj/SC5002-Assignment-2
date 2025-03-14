@@ -6,21 +6,13 @@ README file explaining the project, dataset, and steps taken and insights
 
 There are 9 features in the dataset which provide valuable information related to risk factors and indicators of diabetes:
 1) Pregnancies: Number of pregnancies; gestational diabetes increases the risk of type 2 diabetes later in life.
-
 2) Glucose: Blood sugar levels; elevated glucose is a key sign of type 2 diabetes and insulin resistance.
-
 3) BloodPressure: High blood pressure is a comorbidity with diabetes, often worsened by insulin resistance.
-
 4) SkinThickness: Indicator of subcutaneous fat; higher thickness may suggest insulin resistance and higher diabetes risk.
-
 5) Insulin: Measures insulin levels; insulin resistance leads to higher levels as the body compensates.
-
 6) BMI: Body Mass Index; obesity is strongly linked to type 2 diabetes and insulin resistance.
-
 7) DiabetesPedigreeFunction: Genetic predisposition to diabetes based on family history; higher values indicate a greater risk.
-
 8) Age: Risk of type 2 diabetes increases with age, especially after 45, due to insulin resistance and lifestyle factors.
-
 9) Outcome: Target variable (1 = diabetic, 0 = non-diabetic); used to assess model’s predictive ability for diabetes risk.
 
 Additionally, mimicking the complexities of data collection from patients in real life, there exist certain measurements with no available data. This also presents an opportunity to utilise data cleaning and data imputation methods.
